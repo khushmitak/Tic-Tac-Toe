@@ -19,5 +19,4 @@ class TicTacToe:
             #example ['x', 'x', 'o'] --> [(0, 'x'), (1, 'x'), (2, 'o') ]
             if spot == ' ':
                 moves.append(i)
-        return moves
-        
+        return moves        
